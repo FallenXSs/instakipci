@@ -31,7 +31,7 @@
 ------------------------------------------
 
 
-<p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
+<p style="text-align:center;"><img src="https://r.resimlink.com/-NiPqb.jpg" alt="Logo"></p>
 
 
  # BENİ TAKİP ET
