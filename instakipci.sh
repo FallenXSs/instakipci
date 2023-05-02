@@ -1,7 +1,7 @@
 #!/bin/bash
 # instakipci v2.0
-# coded by : CANPOLAT GÖKKAYA
-# github.com/coderbycanpolat
+# coded by : Yaqub İsmayılzade
+# github.com/FallenXSs
 
 
 clear
@@ -21,7 +21,7 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 
 banner() {
-echo -e " ❂ 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌 𝐎𝐑𝐆𝐀𝐍𝐈𝐊 𝐓𝐀𝐊𝐈𝐏𝐂𝐈 ❂ "
+echo -e " 🇹🇷 𝑭𝒐𝒍𝒍𝒐𝒘𝑨𝒔𝒊𝒔𝒕𝒂𝒏𝒄𝒆 ★ "
 
 
 
