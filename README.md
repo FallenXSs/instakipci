@@ -18,7 +18,7 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/coderbycanpolat/instakipci`
+`$ git clone https://github.com/FallenXSs/instakipci`
 
 `$ cd instakipci`
 
@@ -32,8 +32,8 @@
 
 <p align="center">
 
-  BENİ TAKİP ET
+ # BENİ TAKİP ET
 
- "https://www.instagram.com/canpolatgkky"
 
- "https://t.me/androedit"
+
+
