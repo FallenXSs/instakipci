@@ -26,7 +26,7 @@ echo -e " 🇹🇷 𝑭𝒐𝒍𝒍𝒐𝒘𝑨𝒔𝒊𝒔𝒕𝒂𝒏𝒄𝒆 
 
 
 
-echo -e "       coded  by - \e[1;92mcanpolatgkky "
+echo -e "       coded  by - \e[1;92mYaqub İsmayılzadə"
 
 }
 
